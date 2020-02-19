@@ -1,0 +1,24 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+
+div{
+    text-align: center;
+    border: 5px solid green;
+}
+
+button{
+    display: block;
+    color: red;
+    margin: 0 auto;
+}
+
+p{
+    color: green;
+}
+
+.text{
+    color: blue;
+    font-size: 30px;
+}
