@@ -1,24 +1,26 @@
-img{
-    width: 100px;
-    height: 100px;
-}
 
-div{
+h1{
     text-align: center;
-    border: 5px solid green;
 }
 
-button{
-    display: block;
-    color: red;
-    margin: 0 auto;
-}
-
-p{
+p1{
     color: green;
 }
+p3{
+    color: red; 
+    font: caption;   
+}
+p4{
+    color: blue;    
+    font-style: italic;
+}
 
-.text{
-    color: blue;
-    font-size: 30px;
+p5{
+    color: goldenrod;
+    font-size: xx-large;
+}
+span{
+    color: indigo;
+    font-size: 25px;
+    font-weight: lighter;
 }
